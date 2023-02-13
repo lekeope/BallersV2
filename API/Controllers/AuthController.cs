@@ -12,7 +12,7 @@ public class AuthController : ControllerBase
     private readonly AppDbContext _db;
     private readonly IConfiguration _configuration;
 
-    public AuthController(/**/AppDbContext db, IConfiguration configuration)
+    public AuthController(AppDbContext db, IConfiguration configuration)
     {
         _db = db;
         _configuration = configuration;

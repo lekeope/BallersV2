@@ -26,7 +26,7 @@ Entity Framework Core Summarised - https://medium.com/@opeyemiolorunleke/entity-
 1. Authentication: Register, Login and Forgotten Password Page
 2. Add Externeal Auth Providers: Google and Microsoft
 3. Finish Booking Controller implementation
-4. 
+4. Implement View to visualize all bookings and visually select timeframe to book
 
 
 # Appreciations

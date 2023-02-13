@@ -31,6 +31,6 @@ Entity Framework Core Summarised - https://medium.com/@opeyemiolorunleke/entity-
 
 # Appreciations
 
-Create JSON Web Tokens - https://www.youtube.com/watch?v=v7q3pEK1EA0
-RESTful API with .NET Core - https://www.youtube.com/watch?v=_uZYOgzYheU
+Create JSON Web Tokens ( https://www.youtube.com/watch?v=v7q3pEK1EA0 )
+RESTful API with .NET Core ( https://www.youtube.com/watch?v=_uZYOgzYheU ) 
 
